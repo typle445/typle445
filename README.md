@@ -1,3 +1,7 @@
+![alt text](https://github.com/typle445/typle445/blob/main/code-letters-screen-blur-multi-colored-labels-words-text-sw1lfc92pm6v67bh.jpg)
+
+
+
 <h1 align="center">Hi 👋, I'm Typle</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
