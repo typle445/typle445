@@ -30,13 +30,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/typle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/typle" height="30" width="40" /></a>
-<a href="https://twitter.com/typle9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="typle9" height="30" width="40" /></a>
-<a href="https://fb.com/aung.pyae.phyo1145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aung.pyae.phyo1145" height="30" width="40" /></a>
-<a href="https://instagram.com/typle_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="typle_x" height="30" width="40" /></a>
-</p>
+
 
   <br>
 
